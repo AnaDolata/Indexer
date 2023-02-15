@@ -1,4 +1,5 @@
 # Indexador de Palavras em C
+## Ana Carolina Dolata e Guilherme de Morais Janke
 
 O trabalho consiste na criação de um programa capaz de indexar palavras de um ou mais documentos de texto. Tal programa deverá ser nomeado como indexer.
 
