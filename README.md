@@ -45,6 +45,9 @@ OPÇÕES
     TERMO. A listagem é apresentada em ordem descrescente de relevância. 
     TERMO pode conter mais de uma palavra. Neste caso, deve ser indicado entre 
     àspas.
+    
+EXEMPLO
+  ./indexer --freq 2 ARQUIVO
 ```
 
 ## Requisitos
